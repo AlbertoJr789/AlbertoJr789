@@ -33,13 +33,16 @@ Feel free to take a look at my projects ! There might be some interesting stuff 
 
 <br/>
 
+<br/>
 My Social Media:
 
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<br/>
 
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 &nbsp;&nbsp;
 <br/>
+
 ---
 
 <details>
@@ -48,8 +51,6 @@ My Social Media:
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertoJr789&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
----
 
 
 [youtube]: https://youtube.com/jrdark789
