@@ -38,19 +38,20 @@ My Social Media:
 
 <br/>
 
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 &nbsp;&nbsp;
+
 <br/>
 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertoJr789&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoJr789&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 
 [youtube]: https://youtube.com/jrdark789
