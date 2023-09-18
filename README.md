@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> Hi there, I'm Alberto ! 👋 
 
-## Computer Science Student. Looking forward to be a Web Developer.
+## Computer Science Student and Fullstack Web Developer.
 
 ```
 Been a computer nerd since I was a kid, and now getting to know computers a little **bit** better :D
