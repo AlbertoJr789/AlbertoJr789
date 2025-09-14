@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header"/>
 
- ![Hi there, I'm Alberto !](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=HI+THERE+%2C+I%27M+ALBERTO+!;A+FULLSTACK+WEB+DEVELOPER)
+ ![Hi there, I'm Alberto !](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=HI+THERE+%2C+I%27M+ALBERTO+!;A+SOFTWARE+DEVELOPER)
 
 ```
 Been a computer nerd since I was a kid, and now getting to know computers a little **bit** better :D
@@ -48,3 +48,4 @@ My Social Media:
 [instagram]: https://www.instagram.com/albertojr789/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>
+
