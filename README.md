@@ -11,7 +11,7 @@ Feel free to take a look at my projects ! There might be some interesting stuff 
 ### Languages and Tools I've been in touch with:
 
 <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="26px" src="https://github.com/NadimRifaii/NadimRifaii/blob/main/laravel-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -23,7 +23,9 @@ Feel free to take a look at my projects ! There might be some interesting stuff 
 <br/>
 
 <br/>
-My Social Media:
+
+
+## My Social Media:
 
 <br/>
 
@@ -48,4 +50,5 @@ My Social Media:
 [instagram]: https://www.instagram.com/albertojr789/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>
+
 
